@@ -17,4 +17,4 @@ async def on_member_remove(member):
     channel=bot.get_channel(671251879530987520)
     await channel.send(f'{member}離開了比薩店')
 
-bot.run("NjcxMjIzODQyNzk4MTc0MjA4.Xi6M3Q._-AvNILZeGztWU3lRlYcmASt2cE")
+bot.run("NjcxMjIzODQyNzk4MTc0MjA4.Xi6WbA.Ha1pEGxQquVHyVK7_Mu8GbW-dLo")
